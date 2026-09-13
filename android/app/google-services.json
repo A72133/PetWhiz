@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "694289425649",
+    "project_id": "animal-health-1bd67",
+    "storage_bucket": "animal-health-1bd67.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694289425649:android:e369cd28424f994eb5b550",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_gg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAetiD-tS3DZi4vUh9Es8j2NKlRF4DZRXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
